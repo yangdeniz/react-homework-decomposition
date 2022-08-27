@@ -1,3 +1,8 @@
+/**
+ * Компонент отвечает за отображение рекламного блока
+ * @param {*} props 
+ * @returns 
+ */
 function Advertisement(props) {
   return (
     <div>
